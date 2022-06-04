@@ -1,0 +1,6 @@
+dataset\1_image\43423.png	1
+dataset\0_image\745.png	0
+dataset\1_image\43222.png	1
+dataset\0_image\6456.png	0
+dataset\1_image\441.png	1
+dataset\0_image\63463.png	0
